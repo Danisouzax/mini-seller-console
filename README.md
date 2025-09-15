@@ -8,23 +8,6 @@ Um projeto front-end desenvolvido com **Vite + React + TailwindCSS**, que simula
 - 🎨 **TailwindCSS**  
 - 📦 **Node.js**  
 
-## 📂 Estrutura do projeto  
-mini-seller-console/
-├── public/            # Arquivos públicos
-│   └── leads.json     # Dados mockados de leads
-├── src/               # Código-fonte
-│   ├── components/    # Componentes reutilizáveis
-│   ├── hooks/         # Hooks customizados
-│   ├── utils/         # Funções auxiliares
-│   ├── App.jsx        # Componente raiz
-│   ├── index.css      # Estilos globais
-│   └── main.jsx       # Ponto de entrada
-├── index.html         # HTML principal
-├── package.json       # Dependências e scripts
-├── postcss.config.js  # Configuração do PostCSS
-├── tailwind.config.js # Configuração do TailwindCSS
-
-
 ## 🛠️ Como rodar localmente  
 1. Clone este repositório:  
    ```bash
