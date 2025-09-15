@@ -1,20 +1,20 @@
 # 📦 Mini Seller Console  
 
-Um projeto front-end desenvolvido com **Vite + React + TailwindCSS**, que simula um painel simples de gerenciamento de vendas.  
+A front-end project built with **Vite + React + TailwindCSS**, simulating a simple sales management dashboard.  
 
-## 🚀 Tecnologias utilizadas  
+## 🚀 Technologies  
 - ⚛️ **React**  
 - ⚡ **Vite**  
 - 🎨 **TailwindCSS**  
 - 📦 **Node.js**  
 
-## 🛠️ Como rodar localmente  
-1. Clone este repositório:  
+## 🛠️ How to Run Locally  
+1. Clone this repository:  
    ```bash
    git clone https://github.com/Danisouzax/mini-seller-console.git
    cd mini-seller-console
    npm run dev
    npm install
-Abra no navegador: http://localhost:5173
+Open in your browser: http://localhost:5173
 
 Feito com 💙 por Daniele Souza
