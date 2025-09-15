@@ -1,0 +1,722 @@
+[
+  {
+    "id": 1,
+    "name": "Ulisses Souza",
+    "company": "Acme Corp",
+    "email": "ulisses.souza@acme.com",
+    "source": "Event",
+    "score": 41,
+    "status": "Contacted"
+  },
+  {
+    "id": 2,
+    "name": "Eduarda Fernandes",
+    "company": "Globex",
+    "email": "eduarda.fernandes@globex.com",
+    "source": "Web",
+    "score": 85,
+    "status": "Unqualified"
+  },
+  {
+    "id": 3,
+    "name": "Bruno Silva",
+    "company": "Globex",
+    "email": "bruno.silva@globex.com",
+    "source": "Referral",
+    "score": 39,
+    "status": "New"
+  },
+  {
+    "id": 4,
+    "name": "Rafaela Santos",
+    "company": "Aurum",
+    "email": "rafaela.santos@aurum.com",
+    "source": "Ads",
+    "score": 38,
+    "status": "Unqualified"
+  },
+  {
+    "id": 5,
+    "name": "Saulo Pereira",
+    "company": "Lyra Digital",
+    "email": "saulo.pereira@lyra.com",
+    "source": "Web",
+    "score": 30,
+    "status": "Unqualified"
+  },
+  {
+    "id": 6,
+    "name": "Karen Pereira",
+    "company": "InovaTech",
+    "email": "karen.pereira@inovatech.com",
+    "source": "Referral",
+    "score": 53,
+    "status": "New"
+  },
+  {
+    "id": 7,
+    "name": "Carla Gomes",
+    "company": "Globex",
+    "email": "carla.gomes@globex.com",
+    "source": "Event",
+    "score": 54,
+    "status": "Qualified"
+  },
+  {
+    "id": 8,
+    "name": "Zuleica Silva",
+    "company": "Aurum",
+    "email": "zuleica.silva@aurum.com",
+    "source": "Ads",
+    "score": 78,
+    "status": "New"
+  },
+  {
+    "id": 9,
+    "name": "Marina Souza",
+    "company": "Pulsar LTDA",
+    "email": "marina.souza@pulsar.com",
+    "source": "Event",
+    "score": 90,
+    "status": "Qualified"
+  },
+  {
+    "id": 10,
+    "name": "Saulo Santos",
+    "company": "Aurum",
+    "email": "saulo.santos@aurum.com",
+    "source": "Web",
+    "score": 15,
+    "status": "Contacted"
+  },
+  {
+    "id": 11,
+    "name": "Yara Pereira",
+    "company": "Globex",
+    "email": "yara.pereira@globex.com",
+    "source": "Referral",
+    "score": 22,
+    "status": "Unqualified"
+  },
+  {
+    "id": 12,
+    "name": "Isabela Ribeiro",
+    "company": "NovaData",
+    "email": "isabela.ribeiro@novadata.com",
+    "source": "Event",
+    "score": 30,
+    "status": "Qualified"
+  },
+  {
+    "id": 13,
+    "name": "Leonardo Santos",
+    "company": "NovaData",
+    "email": "leonardo.santos@novadata.com",
+    "source": "Event",
+    "score": 99,
+    "status": "New"
+  },
+  {
+    "id": 14,
+    "name": "Tatiane Costa",
+    "company": "InovaTech",
+    "email": "tatiane.costa@inovatech.com",
+    "source": "Referral",
+    "score": 30,
+    "status": "Unqualified"
+  },
+  {
+    "id": 15,
+    "name": "Marina Pereira",
+    "company": "Helios",
+    "email": "marina.pereira@helios.com",
+    "source": "Referral",
+    "score": 97,
+    "status": "Qualified"
+  },
+  {
+    "id": 16,
+    "name": "Yara Araujo",
+    "company": "Acme Corp",
+    "email": "yara.araujo@acme.com",
+    "source": "Referral",
+    "score": 14,
+    "status": "Qualified"
+  },
+  {
+    "id": 17,
+    "name": "Marina Pereira",
+    "company": "Globex",
+    "email": "marina.pereira@globex.com",
+    "source": "Referral",
+    "score": 82,
+    "status": "Qualified"
+  },
+  {
+    "id": 18,
+    "name": "Gabriela Costa",
+    "company": "DeltaSoft",
+    "email": "gabriela.costa@deltasoft.com",
+    "source": "Ads",
+    "score": 92,
+    "status": "Unqualified"
+  },
+  {
+    "id": 19,
+    "name": "Eduarda Pereira",
+    "company": "InovaTech",
+    "email": "eduarda.pereira@inovatech.com",
+    "source": "Referral",
+    "score": 81,
+    "status": "Qualified"
+  },
+  {
+    "id": 20,
+    "name": "Xavier Almeida",
+    "company": "Orion Labs",
+    "email": "xavier.almeida@orion.com",
+    "source": "Ads",
+    "score": 56,
+    "status": "Contacted"
+  },
+  {
+    "id": 21,
+    "name": "Eduarda Carvalho",
+    "company": "DeltaSoft",
+    "email": "eduarda.carvalho@deltasoft.com",
+    "source": "Web",
+    "score": 16,
+    "status": "New"
+  },
+  {
+    "id": 22,
+    "name": "Eduarda Costa",
+    "company": "InovaTech",
+    "email": "eduarda.costa@inovatech.com",
+    "source": "Ads",
+    "score": 86,
+    "status": "New"
+  },
+  {
+    "id": 23,
+    "name": "Marina Gomes",
+    "company": "Vertex",
+    "email": "marina.gomes@vertex.com",
+    "source": "Ads",
+    "score": 77,
+    "status": "Qualified"
+  },
+  {
+    "id": 24,
+    "name": "Rafaela Rodrigues",
+    "company": "Acme Corp",
+    "email": "rafaela.rodrigues@acme.com",
+    "source": "Web",
+    "score": 97,
+    "status": "Qualified"
+  },
+  {
+    "id": 25,
+    "name": "Yara Costa",
+    "company": "Quantum SA",
+    "email": "yara.costa@quantum.com",
+    "source": "Web",
+    "score": 47,
+    "status": "Unqualified"
+  },
+  {
+    "id": 26,
+    "name": "Felipe Ribeiro",
+    "company": "Acme Corp",
+    "email": "felipe.ribeiro@acme.com",
+    "source": "Event",
+    "score": 74,
+    "status": "Contacted"
+  },
+  {
+    "id": 27,
+    "name": "Queila Moraes",
+    "company": "Globex",
+    "email": "queila.moraes@globex.com",
+    "source": "Event",
+    "score": 91,
+    "status": "Contacted"
+  },
+  {
+    "id": 28,
+    "name": "Eduarda Lima",
+    "company": "Lyra Digital",
+    "email": "eduarda.lima@lyra.com",
+    "source": "Referral",
+    "score": 79,
+    "status": "New"
+  },
+  {
+    "id": 29,
+    "name": "Tatiane Lima",
+    "company": "DeltaSoft",
+    "email": "tatiane.lima@deltasoft.com",
+    "source": "Web",
+    "score": 24,
+    "status": "Qualified"
+  },
+  {
+    "id": 30,
+    "name": "Zuleica Pereira",
+    "company": "BlueWave",
+    "email": "zuleica.pereira@bluewave.com",
+    "source": "Web",
+    "score": 40,
+    "status": "New"
+  },
+  {
+    "id": 31,
+    "name": "Carla Fernandes",
+    "company": "DeltaSoft",
+    "email": "carla.fernandes@deltasoft.com",
+    "source": "Web",
+    "score": 78,
+    "status": "Contacted"
+  },
+  {
+    "id": 32,
+    "name": "Eduarda Costa",
+    "company": "DeltaSoft",
+    "email": "eduarda.costa@deltasoft.com",
+    "source": "Referral",
+    "score": 43,
+    "status": "Unqualified"
+  },
+  {
+    "id": 33,
+    "name": "Gabriela Moraes",
+    "company": "Pulsar LTDA",
+    "email": "gabriela.moraes@pulsar.com",
+    "source": "Referral",
+    "score": 49,
+    "status": "Unqualified"
+  },
+  {
+    "id": 34,
+    "name": "Val\u00e9ria Costa",
+    "company": "Quantum SA",
+    "email": "val\u00e9ria.costa@quantum.com",
+    "source": "Ads",
+    "score": 76,
+    "status": "Unqualified"
+  },
+  {
+    "id": 35,
+    "name": "Diego Santos",
+    "company": "BlueWave",
+    "email": "diego.santos@bluewave.com",
+    "source": "Web",
+    "score": 53,
+    "status": "New"
+  },
+  {
+    "id": 36,
+    "name": "Saulo Carvalho",
+    "company": "BlueWave",
+    "email": "saulo.carvalho@bluewave.com",
+    "source": "Referral",
+    "score": 10,
+    "status": "New"
+  },
+  {
+    "id": 37,
+    "name": "Wagner Costa",
+    "company": "Acme Corp",
+    "email": "wagner.costa@acme.com",
+    "source": "Referral",
+    "score": 18,
+    "status": "New"
+  },
+  {
+    "id": 38,
+    "name": "Karen Souza",
+    "company": "Pulsar LTDA",
+    "email": "karen.souza@pulsar.com",
+    "source": "Referral",
+    "score": 45,
+    "status": "Unqualified"
+  },
+  {
+    "id": 39,
+    "name": "Gabriela Carvalho",
+    "company": "InovaTech",
+    "email": "gabriela.carvalho@inovatech.com",
+    "source": "Ads",
+    "score": 41,
+    "status": "Unqualified"
+  },
+  {
+    "id": 40,
+    "name": "Zuleica Gomes",
+    "company": "BlueWave",
+    "email": "zuleica.gomes@bluewave.com",
+    "source": "Web",
+    "score": 22,
+    "status": "Unqualified"
+  },
+  {
+    "id": 41,
+    "name": "Leonardo Gomes",
+    "company": "Orion Labs",
+    "email": "leonardo.gomes@orion.com",
+    "source": "Ads",
+    "score": 16,
+    "status": "New"
+  },
+  {
+    "id": 42,
+    "name": "Bruno Gomes",
+    "company": "Aurum",
+    "email": "bruno.gomes@aurum.com",
+    "source": "Event",
+    "score": 23,
+    "status": "Contacted"
+  },
+  {
+    "id": 43,
+    "name": "Gabriela Santos",
+    "company": "Pulsar LTDA",
+    "email": "gabriela.santos@pulsar.com",
+    "source": "Ads",
+    "score": 27,
+    "status": "Unqualified"
+  },
+  {
+    "id": 44,
+    "name": "Felipe Pereira",
+    "company": "DeltaSoft",
+    "email": "felipe.pereira@deltasoft.com",
+    "source": "Referral",
+    "score": 19,
+    "status": "Unqualified"
+  },
+  {
+    "id": 45,
+    "name": "Zuleica Rodrigues",
+    "company": "Skyline",
+    "email": "zuleica.rodrigues@skyline.com",
+    "source": "Web",
+    "score": 16,
+    "status": "New"
+  },
+  {
+    "id": 46,
+    "name": "Carla Moraes",
+    "company": "Lyra Digital",
+    "email": "carla.moraes@lyra.com",
+    "source": "Referral",
+    "score": 31,
+    "status": "Unqualified"
+  },
+  {
+    "id": 47,
+    "name": "Paulo Ribeiro",
+    "company": "BlueWave",
+    "email": "paulo.ribeiro@bluewave.com",
+    "source": "Ads",
+    "score": 17,
+    "status": "Contacted"
+  },
+  {
+    "id": 48,
+    "name": "Marina Silva",
+    "company": "Orion Labs",
+    "email": "marina.silva@orion.com",
+    "source": "Event",
+    "score": 68,
+    "status": "Qualified"
+  },
+  {
+    "id": 49,
+    "name": "Nicolas Fernandes",
+    "company": "Aurum",
+    "email": "nicolas.fernandes@aurum.com",
+    "source": "Ads",
+    "score": 29,
+    "status": "Contacted"
+  },
+  {
+    "id": 50,
+    "name": "Jo\u00e3o Santos",
+    "company": "Acme Corp",
+    "email": "jo\u00e3o.santos@acme.com",
+    "source": "Web",
+    "score": 50,
+    "status": "New"
+  },
+  {
+    "id": 51,
+    "name": "Bruno Almeida",
+    "company": "DeltaSoft",
+    "email": "bruno.almeida@deltasoft.com",
+    "source": "Referral",
+    "score": 17,
+    "status": "New"
+  },
+  {
+    "id": 52,
+    "name": "Felipe Souza",
+    "company": "Vertex",
+    "email": "felipe.souza@vertex.com",
+    "source": "Web",
+    "score": 96,
+    "status": "Contacted"
+  },
+  {
+    "id": 53,
+    "name": "Marina Souza",
+    "company": "Helios",
+    "email": "marina.souza@helios.com",
+    "source": "Referral",
+    "score": 84,
+    "status": "New"
+  },
+  {
+    "id": 54,
+    "name": "Tatiane Souza",
+    "company": "Orion Labs",
+    "email": "tatiane.souza@orion.com",
+    "source": "Event",
+    "score": 43,
+    "status": "Contacted"
+  },
+  {
+    "id": 55,
+    "name": "Val\u00e9ria Fernandes",
+    "company": "Quantum SA",
+    "email": "val\u00e9ria.fernandes@quantum.com",
+    "source": "Referral",
+    "score": 43,
+    "status": "Unqualified"
+  },
+  {
+    "id": 56,
+    "name": "Eduarda Costa",
+    "company": "NovaData",
+    "email": "eduarda.costa@novadata.com",
+    "source": "Event",
+    "score": 68,
+    "status": "Qualified"
+  },
+  {
+    "id": 57,
+    "name": "Yara Moraes",
+    "company": "Globex",
+    "email": "yara.moraes@globex.com",
+    "source": "Web",
+    "score": 68,
+    "status": "New"
+  },
+  {
+    "id": 58,
+    "name": "Carla Carvalho",
+    "company": "BlueWave",
+    "email": "carla.carvalho@bluewave.com",
+    "source": "Event",
+    "score": 26,
+    "status": "Qualified"
+  },
+  {
+    "id": 59,
+    "name": "Carla Moraes",
+    "company": "BlueWave",
+    "email": "carla.moraes@bluewave.com",
+    "source": "Event",
+    "score": 46,
+    "status": "Contacted"
+  },
+  {
+    "id": 60,
+    "name": "Olivia Rodrigues",
+    "company": "Pulsar LTDA",
+    "email": "olivia.rodrigues@pulsar.com",
+    "source": "Event",
+    "score": 88,
+    "status": "New"
+  },
+  {
+    "id": 61,
+    "name": "Val\u00e9ria Rodrigues",
+    "company": "Pulsar LTDA",
+    "email": "val\u00e9ria.rodrigues@pulsar.com",
+    "source": "Event",
+    "score": 94,
+    "status": "New"
+  },
+  {
+    "id": 62,
+    "name": "Eduarda Pereira",
+    "company": "Globex",
+    "email": "eduarda.pereira@globex.com",
+    "source": "Web",
+    "score": 80,
+    "status": "Contacted"
+  },
+  {
+    "id": 63,
+    "name": "Isabela Pereira",
+    "company": "Vertex",
+    "email": "isabela.pereira@vertex.com",
+    "source": "Referral",
+    "score": 53,
+    "status": "Contacted"
+  },
+  {
+    "id": 64,
+    "name": "Val\u00e9ria Costa",
+    "company": "Skyline",
+    "email": "val\u00e9ria.costa@skyline.com",
+    "source": "Event",
+    "score": 74,
+    "status": "Unqualified"
+  },
+  {
+    "id": 65,
+    "name": "Isabela Moraes",
+    "company": "Helios",
+    "email": "isabela.moraes@helios.com",
+    "source": "Web",
+    "score": 21,
+    "status": "Unqualified"
+  },
+  {
+    "id": 66,
+    "name": "Isabela Silva",
+    "company": "Acme Corp",
+    "email": "isabela.silva@acme.com",
+    "source": "Event",
+    "score": 26,
+    "status": "Qualified"
+  },
+  {
+    "id": 67,
+    "name": "Felipe Fernandes",
+    "company": "DeltaSoft",
+    "email": "felipe.fernandes@deltasoft.com",
+    "source": "Ads",
+    "score": 81,
+    "status": "New"
+  },
+  {
+    "id": 68,
+    "name": "Diego Souza",
+    "company": "Helios",
+    "email": "diego.souza@helios.com",
+    "source": "Referral",
+    "score": 79,
+    "status": "New"
+  },
+  {
+    "id": 69,
+    "name": "Leonardo Almeida",
+    "company": "Pulsar LTDA",
+    "email": "leonardo.almeida@pulsar.com",
+    "source": "Referral",
+    "score": 65,
+    "status": "Contacted"
+  },
+  {
+    "id": 70,
+    "name": "Bruno Pereira",
+    "company": "Quantum SA",
+    "email": "bruno.pereira@quantum.com",
+    "source": "Web",
+    "score": 55,
+    "status": "Contacted"
+  },
+  {
+    "id": 71,
+    "name": "Val\u00e9ria Santos",
+    "company": "NovaData",
+    "email": "val\u00e9ria.santos@novadata.com",
+    "source": "Web",
+    "score": 55,
+    "status": "Unqualified"
+  },
+  {
+    "id": 72,
+    "name": "Tatiane Fernandes",
+    "company": "InovaTech",
+    "email": "tatiane.fernandes@inovatech.com",
+    "source": "Referral",
+    "score": 30,
+    "status": "Contacted"
+  },
+  {
+    "id": 73,
+    "name": "Nicolas Silva",
+    "company": "InovaTech",
+    "email": "nicolas.silva@inovatech.com",
+    "source": "Event",
+    "score": 62,
+    "status": "Contacted"
+  },
+  {
+    "id": 74,
+    "name": "Isabela Oliveira",
+    "company": "Lyra Digital",
+    "email": "isabela.oliveira@lyra.com",
+    "source": "Web",
+    "score": 58,
+    "status": "New"
+  },
+  {
+    "id": 75,
+    "name": "Paulo Santos",
+    "company": "BlueWave",
+    "email": "paulo.santos@bluewave.com",
+    "source": "Ads",
+    "score": 54,
+    "status": "Qualified"
+  },
+  {
+    "id": 76,
+    "name": "Zuleica Rodrigues",
+    "company": "BlueWave",
+    "email": "zuleica.rodrigues@bluewave.com",
+    "source": "Referral",
+    "score": 13,
+    "status": "Contacted"
+  },
+  {
+    "id": 77,
+    "name": "Marina Lima",
+    "company": "Nexa Solutions",
+    "email": "marina.lima@nexa.com",
+    "source": "Web",
+    "score": 45,
+    "status": "Qualified"
+  },
+  {
+    "id": 78,
+    "name": "Ulisses Carvalho",
+    "company": "Orion Labs",
+    "email": "ulisses.carvalho@orion.com",
+    "source": "Event",
+    "score": 13,
+    "status": "New"
+  },
+  {
+    "id": 79,
+    "name": "Isabela Oliveira",
+    "company": "Vertex",
+    "email": "isabela.oliveira@vertex.com",
+    "source": "Event",
+    "score": 14,
+    "status": "New"
+  },
+  {
+    "id": 80,
+    "name": "Tatiane Gomes",
+    "company": "Quantum SA",
+    "email": "tatiane.gomes@quantum.com",
+    "source": "Event",
+    "score": 65,
+    "status": "New"
+  }
+]
