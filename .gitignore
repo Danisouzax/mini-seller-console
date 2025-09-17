@@ -1,0 +1,7 @@
+# Dependências
+node_modules/
+package-lock.json
+
+# Build
+dist/
+.cache/
